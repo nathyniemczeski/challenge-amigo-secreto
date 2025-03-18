@@ -25,6 +25,15 @@ Aplicativo interativo para organizar sorteios de **Amigo Secreto** de forma simp
 3. Assim que adicionar todos os nomes, clique no botão "SORTEAR AMIGO" para realizar o sorteio;
 4. Se quiser realizar outro com uma nova lista de amigos, clique em "REINICIAR";
 
+📷 Captura de Tela
+
+Captura da tela index.html (foto-tela-index.png)
+
+📷 Captura de Vídeo 
+
+Funcinamento do aplicativo ( amigo-secreto.mp4 )
+
+https://challenge-amigo-secreto--gamma.vercel.app/
 
 
 👨‍💻 Desenvolvido por Nathalia Niemczeski.
